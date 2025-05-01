@@ -1,9 +1,3 @@
-
-Go the link given below and download the model and add the downloaded file in model folder.
-
-https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_0.bin
-
-
 This is the project about question paper generation using large languagae models
 
 Here we are using Llama2 model to generate the question.
@@ -12,8 +6,10 @@ to run this project
 
 
 
-Go to folder model -> instruction.txt
-download the model from the link given and add it to model folder
+create new folder named model-> 
+Go the link given below and download the model and add the downloaded file in model folder.
+
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_0.bin
 
 add the database qpgen_subjectspdfs.sql to MySQL database with any name (prefer 'QPGen' as name ) (go through this link to how to add the database https://www.youtube.com/watch?v=7Cbm5vPQvNI)
 
