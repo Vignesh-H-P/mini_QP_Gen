@@ -1,7 +1,7 @@
 
 Go the link given below and download the model and add the downloaded file in model folder.
 
-https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_0.bin
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/blob/main/llama-2-7b-chat.ggmlv3.q4_0.bin\n
 This is the project about question paper generation using large languagae models
 
 Here we are using Llama2 model to generate the question.
